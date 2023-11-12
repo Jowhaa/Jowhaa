@@ -7,6 +7,8 @@
 ## ⚒ Skills 
 ![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-33AADD?style=flat-square&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Java](https://img.shields.io/badge/Java.js-53C1DE?style=flat-square&logo=React&logoColor=white)
 
+
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <br />
 <br />
   
