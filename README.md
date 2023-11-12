@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waiving)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 <!--
 **Jowhaa/Jowhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
