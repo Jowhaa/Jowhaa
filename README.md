@@ -5,7 +5,7 @@
 - Junior Developer
   
 ## ⚒ Skills 
-ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ## 🔨 Once I've used 🔨
+## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
