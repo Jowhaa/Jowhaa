@@ -5,7 +5,7 @@
 - Junior Developer
   
 ## ⚒ Skills 
-![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-33AADD?style=flat-square&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React.js-53C1DE?style=flat-square&logo=React&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-33AADD?style=flat-square&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Java](https://img.shields.io/badge/React.js-53C1DE?style=flat-square&logo=React&logoColor=white)
 
 <br />
 <br />
