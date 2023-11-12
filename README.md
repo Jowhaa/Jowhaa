@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
     </div>
     <!-- Others -->
-  
+  https://gist.github.com/pawsong/18aea70880081761166f0305ed047324
     
 </div><br>
 </div>
