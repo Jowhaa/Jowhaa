@@ -1,12 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving!&section=header&text=Jowhaa's_Git_World&color=timeAuto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=300&section=header&text=Jowhaaa's%20Git%20Hub&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20become%20a%20better%20developer.&descAlignY=51&descAlign=57&fontColor=FFFFFF)
 
-
-![header](https://capsule-render.vercel.app/api?type=Waving!&section=footer&color=timeAuto)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=300&section=header&text=Inhye's%20Git%20Hub&fontSize=55&fontAlignY=38&animation=fadeIn&desc=To%20become%20a%20better%20developer.&descAlignY=51&descAlign=57&fontColor=FFFFFF)
   
 ## ✨ About me
-- Junior Front-end Developer
+- Junior Developer
   
 ## ⚒ Skills 
 ![HTML](https://img.shields.io/badge/HTML-F16529?style=flat-square&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-33AADD?style=flat-square&logo=CSS3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![React](https://img.shields.io/badge/React.js-53C1DE?style=flat-square&logo=React&logoColor=white)
